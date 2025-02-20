@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-01-28 23:33+0100\n"
 "PO-Revision-Date: 2025-02-16 22:17+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: LA ESQUINA DEL ROL <MARIO@LAESQUINADELROL.COM>\n"
 "Language: es\n"
 "Language-Team: es <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -19,136 +19,136 @@ msgstr ""
 #: app/forms.py:10 app/forms.py:19 app/forms.py:53 app/forms.py:68
 #: app/forms.py:77 app/forms.py:79
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: app/forms.py:12 app/forms.py:29 app/forms.py:74
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: app/forms.py:14
 msgid "Keep me logged in"
-msgstr ""
+msgstr "Mantener mi sesión iniciada"
 
 #: app/forms.py:15
 msgid "Login"
-msgstr ""
+msgstr "Acceder"
 
 #: app/forms.py:20 app/forms.py:69
 msgid "Invalid email address"
-msgstr ""
+msgstr "Correo electrónico inválido"
 
 #: app/forms.py:20 app/forms.py:69
 msgid "email"
-msgstr ""
+msgstr "correo electrónico"
 
 #: app/forms.py:24
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #: app/forms.py:28
 msgid "username"
-msgstr ""
+msgstr "nombre de usuario"
 
 #: app/forms.py:30
 msgid "Password must be between 8 and 64 characters"
-msgstr ""
+msgstr "La contraseña debe tener entre 8 y 64 caracteres"
 
 #: app/forms.py:30 app/forms.py:60 app/forms.py:88
 msgid "Passwords must match"
-msgstr ""
+msgstr "Las constraseñas deben coincidir"
 
 #: app/forms.py:31 app/forms.py:61 app/forms.py:76
 msgid "password"
-msgstr ""
+msgstr "contraseña"
 
 #: app/forms.py:32 app/forms.py:62
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirmar contraseña"
 
 #: app/forms.py:33 app/forms.py:63
 msgid "confirm password"
-msgstr ""
+msgstr "confirmar contraseña"
 
 #: app/forms.py:34
 msgid "Signup Code"
-msgstr ""
+msgstr "Código de registro"
 
 #: app/forms.py:35
 msgid "signup code"
-msgstr ""
+msgstr "código de registro"
 
 #: app/forms.py:36
 msgid "Sign Up"
-msgstr ""
+msgstr "Crear una cuenta"
 
 #: app/forms.py:55 app/forms.py:64 app/templates/auth/reset_password.html:5
 #: app/templates/auth/reset_password_request.html:6
 msgid "Reset Password"
-msgstr ""
+msgstr "Reiniciar Contraseña"
 
 #: app/forms.py:59
 msgid "New Password"
-msgstr ""
+msgstr "Nueva contraseña"
 
 #: app/forms.py:70 app/templates/auth/resend_confirmation.html:6
 msgid "Resend Confirmation"
-msgstr ""
+msgstr "Reenviar confirmación"
 
 #: app/forms.py:78
 msgid "Email addresses must match"
-msgstr ""
+msgstr "Los correos electrónicos deben coincidir"
 
 #: app/forms.py:78
 msgid "new email"
-msgstr ""
+msgstr "nuevo correo electrónico"
 
 #: app/forms.py:80
 msgid "confirm new email"
-msgstr ""
+msgstr "confirma nuevo correo electrónico"
 
 #: app/forms.py:81 app/forms.py:92
 msgid "Change"
-msgstr ""
+msgstr "Cambiar"
 
 #: app/forms.py:85
 msgid "Current Password"
-msgstr ""
+msgstr "Contraseña actual"
 
 #: app/forms.py:86
 msgid "current password"
-msgstr ""
+msgstr "contraseña actual"
 
 #: app/forms.py:87
 msgid "New password"
-msgstr ""
+msgstr "Nuevo contraseña"
 
 #: app/forms.py:89
 msgid "new password"
-msgstr ""
+msgstr "nueva contraseña"
 
 #: app/forms.py:90
 msgid "Confirm new password"
-msgstr ""
+msgstr "Confirmar nueva contraseña"
 
 #: app/forms.py:91
 msgid "confirm new password"
-msgstr ""
+msgstr "confirmar nueva contraseña"
 
 #: app/forms.py:103
 msgid "Name (d10)..."
-msgstr ""
+msgstr "Nombre (1d10)..."
 
 #: app/forms.py:104
 msgid "Background (d20)..."
-msgstr ""
+msgstr "Trasfondo (1d20)"
 
 #: app/forms.py:114 app/forms.py:115
-msgid "Custom"
-msgstr ""
+msgid "** Custom **"
+msgstr "Personalizado"
 
 #: app/forms.py:125 app/forms.py:238 app/templates/partial/tools/pcgen.html:13
 msgid "Background"
-msgstr ""
+msgstr "Trasfondo"
 
 #: app/forms.py:126 app/forms.py:237 app/forms.py:283 app/forms.py:293
 #: app/templates/main/inventory.html:33 app/templates/main/inventory.html:112
@@ -158,46 +158,46 @@ msgstr ""
 #: app/templates/partial/modal/edit_item.html:19
 #: app/templates/partial/modal/edit_item_party.html:19
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: app/forms.py:129 app/forms.py:130 app/forms.py:242
 msgid "Custom Background"
-msgstr ""
+msgstr "Trasfondo personalizado"
 
 #: app/forms.py:138 app/forms.py:139 app/forms.py:170 app/forms.py:233
 #: app/forms.py:240
 msgid "Custom Name"
-msgstr ""
+msgstr "Nombre personalizado"
 
 #: app/forms.py:146 app/forms.py:172 app/forms.py:245
 #: app/templates/main/character_create.html:185
 #: app/templates/main/character_create.html:196
 msgid "Strength"
-msgstr ""
+msgstr "Fuerza"
 
 #: app/forms.py:147 app/forms.py:173 app/forms.py:247
 msgid "Strength Max"
-msgstr ""
+msgstr "Fuerza máxima"
 
 #: app/forms.py:148 app/forms.py:174 app/forms.py:249
 #: app/templates/main/character_create.html:186
 #: app/templates/main/character_create.html:197
 msgid "Dexterity"
-msgstr ""
+msgstr "Destreza"
 
 #: app/forms.py:149 app/forms.py:175 app/forms.py:251
 msgid "Dexterity Max"
-msgstr ""
+msgstr "Destreza máxima"
 
 #: app/forms.py:150 app/forms.py:176 app/forms.py:178 app/forms.py:253
 #: app/templates/main/character_create.html:187
 #: app/templates/main/character_create.html:198
 msgid "Willpower"
-msgstr ""
+msgstr "Voluntad"
 
 #: app/forms.py:151 app/forms.py:177 app/forms.py:179 app/forms.py:255
 msgid "Willpower Max"
-msgstr ""
+msgstr "Voluntad máxima"
 
 #: app/forms.py:152 app/forms.py:257
 #: app/static/json/party_events/bestiary.json:5
@@ -208,23 +208,23 @@ msgstr ""
 #: app/templates/partial/charview/stats.html:22
 #: app/templates/partial/tools/pcgen_text.html:28
 msgid "HP"
-msgstr ""
+msgstr "PG"
 
 #: app/forms.py:153 app/forms.py:258
 msgid "HP Max"
-msgstr ""
+msgstr "PG Máximos"
 
 #: app/forms.py:155 app/forms.py:185 app/forms.py:207 app/forms.py:268
 #: app/forms.py:287 app/forms.py:297 app/templates/main/character_edit.html:82
 #: app/templates/main/character_print.html:113
 #: app/templates/main/character_view.html:101
 msgid "Notes"
-msgstr ""
+msgstr "Notas"
 
 #: app/forms.py:156 app/forms.py:188 app/forms.py:212 app/forms.py:286
 #: app/forms.py:296
 msgid "description"
-msgstr ""
+msgstr "descripción"
 
 #: app/forms.py:161 app/forms.py:180 app/forms.py:260
 #: app/static/json/party_events/names.json:47
@@ -237,11 +237,11 @@ msgstr ""
 #: app/templates/partial/charview/stats.html:36
 #: app/templates/partial/tools/pcgen_text.html:45
 msgid "Gold"
-msgstr ""
+msgstr "Oro"
 
 #: app/forms.py:162
 msgid "Save Character"
-msgstr ""
+msgstr "Guardar personaje"
 
 #: app/forms.py:181 app/forms.py:279
 #: app/templates/main/edit_portrait_modal.html:24
@@ -250,15 +250,15 @@ msgstr ""
 #: app/templates/partial/modal/edit_item.html:116
 #: app/templates/partial/modal/edit_item_party.html:116
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: app/forms.py:184 app/forms.py:266
 msgid "Deprived"
-msgstr ""
+msgstr "Exhausto"
 
 #: app/forms.py:186 app/forms.py:208 app/forms.py:288 app/forms.py:298
 msgid "notes"
-msgstr ""
+msgstr "notas"
 
 #: app/forms.py:187 app/forms.py:211 app/forms.py:269 app/forms.py:285
 #: app/forms.py:295 app/templates/main/character_edit.html:66
@@ -269,7 +269,7 @@ msgstr ""
 #: app/templates/partial/modal/edit_item_party.html:99
 #: app/templates/partial/tools/pcgen_text.html:8
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: app/forms.py:189 app/forms.py:215 app/forms.py:270
 #: app/templates/main/character_create.html:218
@@ -277,11 +277,11 @@ msgstr ""
 #: app/templates/main/character_print.html:58
 #: app/templates/main/character_view.html:60
 msgid "Traits"
-msgstr ""
+msgstr "Rasgos"
 
 #: app/forms.py:190 app/forms.py:216
 msgid "traits"
-msgstr ""
+msgstr "rasgos"
 
 #: app/forms.py:191 app/forms.py:219 app/forms.py:271
 #: app/templates/main/character_create.html:291

@@ -291,11 +291,11 @@ msgstr "rasgos"
 #: app/templates/main/character_view.html:80
 #: app/templates/partial/tools/pcgen_text.html:63
 msgid "Bonds"
-msgstr ""
+msgstr "Vínculos"
 
 #: app/forms.py:192 app/forms.py:220
 msgid "bonds"
-msgstr ""
+msgstr "vínculos"
 
 #: app/forms.py:193 app/forms.py:223 app/forms.py:272
 #: app/templates/main/character_create.html:302
@@ -305,35 +305,35 @@ msgstr ""
 #: app/templates/partial/charedit/omens.html:2
 #: app/templates/partial/tools/pcgen_text.html:80
 msgid "Omens"
-msgstr ""
+msgstr "Presagios"
 
 #: app/forms.py:194 app/forms.py:224
 msgid "omens"
-msgstr ""
+msgstr "presagios"
 
 #: app/forms.py:195 app/forms.py:230 app/forms.py:273
 #: app/templates/main/character_print.html:105
 #: app/templates/main/character_view.html:94
 #: app/templates/partial/charedit/scars.html:1
 msgid "Scars"
-msgstr ""
+msgstr "Cicatrices"
 
 #: app/forms.py:196 app/forms.py:230
 msgid "scars"
-msgstr ""
+msgstr "cicatrices"
 
 #: app/forms.py:200 app/forms.py:227
 msgid "Party Code"
-msgstr ""
+msgstr "Código del grupo"
 
 #: app/forms.py:201 app/forms.py:227
 msgid "join code"
-msgstr ""
+msgstr "Código de acceso"
 
 #: app/forms.py:262 app/templates/main/character_create.html:319
 #: app/templates/partial/tools/pcgen_text.html:38
 msgid "Items"
-msgstr ""
+msgstr "Objetos"
 
 #: app/forms.py:263
 msgid "Containers"
